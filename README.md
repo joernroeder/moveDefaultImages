@@ -1,8 +1,8 @@
 Usage
 =====
 
-Select a folder which contains the required files and grab a bounty :)
-The script will move the images that are matched into the sub-folder (`defaultImageFolder`).
+Select a folder which contains the required files and grab a bounty :)   
+The script will move the matched images into the sub-folder (`defaultImageFolder`).
 
 ### Required Files
 
