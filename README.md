@@ -12,7 +12,10 @@ The script will move the matched images into the sub-folder (`defaultImageFolder
 
 ### Variables ###
 
-	String referenceImageName = "_noImageReference.jpg";
+	String[] referenceImageNames = {
+		"_noImageReferenceMale.jpg",
+		"_noImageReferenceFemale.jpg"
+	};
 
 	String defaultImageFolder = "_defaultImage";
 
